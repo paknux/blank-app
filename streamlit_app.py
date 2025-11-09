@@ -2,7 +2,7 @@ import streamlit as st
 
 # Judul aplikasi
 st.title("Kalkulator Luas Segitiga")
-st.header("Nugroho - 10 TJKT 1")
+st.text("Nugroho - 10 TJKT 1")
 
 # Input dari pengguna
 st.header("Masukkan nilai:")
