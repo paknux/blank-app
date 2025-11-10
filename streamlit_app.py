@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Judul aplikasi
-st.title("Luas Segi 3")
+st.title("Luas Segi Tiga")
 st.text("Tugas oleh : Nugroho - 10 TJKT 1 (40)")
 
 # Input dari pengguna
